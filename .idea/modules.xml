@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ECE695_DL.iml" filepath="$PROJECT_DIR$/.idea/ECE695_DL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GitHub/p-bit/.idea/p-bit.iml" filepath="$PROJECT_DIR$/../../GitHub/p-bit/.idea/p-bit.iml" />
+    </modules>
+  </component>
+</project>
